@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hello  👋
 
-<!--
-**manny994/manny994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Manny Singh — IT Professional based in Perth, Australia 🇦🇺
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 Working in Desktop Technologies & Provisioning (WA Government)
+- 🔐 Strong focus on ethical practices, security, and compliance
+- 🛠️ Hands-on with SCCM, PowerShell, troubleshooting
+
+---
+
+## 🔥 My DevOps Journey
+
+Started learning DevOps in 2024 and stayed consistent until mid-2024.
+
+Then I paused.
+
+Now I’m back — more focused and serious.
+
+This time, I’m doing it properly with hands-on work and consistency.
+
+---
+
+## 🧠 Currently Learning
+
+- Docker 🐳
+- CI/CD pipelines ⚙️
+- Azure ☁️
+- Linux 🐧
+
+---
+
+## 🎯 Goal
+
+Move into a Cloud / DevOps role by building real projects and learning consistently.
+
+---
+
+⚡ Balancing full-time IT job + Dad + DevOps journey# Hi there 👋
+
