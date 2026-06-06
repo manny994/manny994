@@ -1,6 +1,6 @@
 ## Hello  👋
 
-I’m Manny Singh — IT Professional based in Perth, Australia 🇦🇺
+I’m Manny Singh — IT Professional based in Perth, Australia
 
 ---
 
