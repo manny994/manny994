@@ -30,6 +30,7 @@ This time, I’m doing it properly with hands-on work and consistency.
 - CI/CD pipelines ⚙️
 - Azure ☁️
 - Linux 🐧
+- Agentic AI
 
 ---
 
